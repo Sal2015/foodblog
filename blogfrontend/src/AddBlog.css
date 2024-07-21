@@ -1,0 +1,23 @@
+input{
+    margin : 10px;
+    height:30px;
+    width : 90%;
+    padding :10px;
+    border-radius: 20px;
+
+}
+.btn{
+    background-color: #A91D3A;
+    padding : 20px;
+    margin : 20px;
+    color : white;
+    border-radius: 30px;
+    font-size: 15px;
+}
+.btn:hover{
+    transition: 0.5s;
+    background-color: black;
+    /* padding : 20px;
+    margin : 20px; */
+  
+}
